@@ -5,7 +5,7 @@ $row = $_GET['row'];
 
 $number = 1;
 
-$table = "<table border=1 width="10px" height="10px">";
+$table = "<table border=1 >";
 
 for($i=0;$i<$row;$i++)
 {

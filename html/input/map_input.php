@@ -20,18 +20,10 @@
 
                 <tr align="center">
                     <td><input type="submit" value="만들기">&nbsp&nbsp&nbsp&nbsp&nbsp
-                        <!-- <a href="join.html"><input type="button" value="회원가입"></a> -->
                     </td>
                 </tr>
             </table>
         </form> 
-
-<!-- 
-        <table border="1" width="10px" height="10px" >
-            <tr>
-                <td></td>
-            </tr>
-        </table> -->
     </center>
     </body>
 </html>
